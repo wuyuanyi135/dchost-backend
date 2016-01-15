@@ -1,0 +1,27 @@
+{
+  "name": "dchost-backend",
+  "version": "1.0.0",
+  "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "feathers": "^1.3.0",
+    "feathers-memory": "^0.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyuanyi135/dchost-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuyuanyi135/dchost-backend/issues"
+  },
+  "homepage": "https://github.com/wuyuanyi135/dchost-backend#readme"
+}
